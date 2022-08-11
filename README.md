@@ -37,17 +37,17 @@ A Recurrent Neural Network (RNN) sequence-to-sequence (seq2seq) model was implem
 
 Simplified seq2seq model example.
 
-<img src="img/modeldesign.PNG" width="50%" height="auto">
+<img src="img/modeldesign.PNG" width="60%" height="auto">
 
 System Design of seq2seq model implemented.
 
-<img src="model.PNG" width="60%" height="auto">
+<img src="model.PNG" width="75%" height="auto">
 
 
 ## Usage
 The input data is first parsed. Each unique character is tokenized to be used later in the model.
 
-<img src="img/initialization.PNG" width="25%" height="auto">
+<img src="img/initialization.PNG" width="30%" height="auto">
 
 The model is then created and fed the tokenized data.
 
@@ -63,9 +63,9 @@ The model outputs a decoded sequence, which is the predicted text. The predicted
 
 The model's accuracy and loss plot is shown below. The model achieved 89.52% accuracy and a 0.3433 in model loss.
 
-<img src="acc-plot2.PNG" width="35%" height="auto">
+<img src="acc-plot2.PNG" width="30%" height="auto">
 
-<img src="loss-plot2.PNG" width="35%" height="auto">
+<img src="loss-plot2.PNG" width="30%" height="auto">
 
 
 ## Sources
