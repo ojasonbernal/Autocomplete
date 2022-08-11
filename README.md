@@ -63,9 +63,9 @@ The model outputs a decoded sequence, which is the predicted text. The predicted
 
 The model's accuracy and loss plot is shown below. The model achieved 89.52% accuracy and a 0.3433 in model loss.
 
-<img src="acc-plot2.PNG" width="30%" height="auto">
+<img src="acc-plot2.PNG" width="40%" height="auto">
 
-<img src="loss-plot2.PNG" width="30%" height="auto">
+<img src="loss-plot2.PNG" width="40%" height="auto">
 
 
 ## Sources
